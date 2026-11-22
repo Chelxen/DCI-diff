@@ -1,0 +1,11 @@
+# data, weights and outputs are not part of the repository
+data/
+checkpoints/
+experiments/
+results/
+logs/
+wandb/
+*.pth
+*.npy
+__pycache__/
+*.pyc

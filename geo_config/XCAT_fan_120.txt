@@ -1,0 +1,25 @@
+# CT volume parameters
+numX = 256
+numY = 256
+numZ = 1
+voxelWidth  = 5.101579e-01  
+voxelHeight = 1.000000e+00  
+offsetX = 0.000000e+00
+offsetY = 0.000000e+00
+offsetZ = 0.000000e+00
+
+# CT geometry parameters
+geometry = fan
+numAngles = 328            
+numRows = 1
+numCols = 835
+pixelHeight = 1.000000e+00  
+pixelWidth  = 1.000000e+00  
+centerRow = 0.000000e+00    
+centerCol = 4.170000e+02  
+angularRange = 1.200000e+02 
+sod = 5.385000e+02
+sdd = 9.500000e+02
+tau = 0.000000e+00
+helicalPitch = 0.000000e+00
+
