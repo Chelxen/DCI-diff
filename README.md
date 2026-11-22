@@ -21,7 +21,6 @@ regularization (GSR), while projection-domain consistency is enforced during ite
 | Validation and inference code | Initial public release |
 | Full training code and training configurations | After paper publication |
 | Clinical data | Not released because of patient privacy restrictions |
-| Pretrained weights | Not released |
 
 The current repository is an early version and its interfaces, configuration files, and
 documentation may change before the final release.
@@ -107,13 +106,6 @@ requirements, sampling parameters, and output format.
 
 ## Citation
 
-The citation will be added after publication. If you use this repository before then, please refer
-to the project by its full title:
+The citation will be added after publication.
 
-> DCI-diff: Data-Consistency-Inspired Diffusion Constraint for Limited-Angle Cardiac CT
-> Reconstruction
-
-## Disclaimer
-
-This research code is provided for academic validation. It is not a medical device and must not be
-used for clinical diagnosis or treatment.
+> DCI-diff: Data-Consistency-Inspired Diffusion Constraint for Limited-Angle Cardiac CT Reconstruction
